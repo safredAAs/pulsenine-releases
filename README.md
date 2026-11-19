@@ -65,6 +65,8 @@ Die Downloads sind derzeit nicht digital signiert. Die SHA-256-Prüfsumme steht 
 
 ## Lizenz und Download-Repository
 
-Dieses Repository enthält Produktinformationen, Screenshots und freigegebene Installationsdateien. Der Anwendungsquellcode und der Lizenzmanager sind privat. Die Nutzung von PulseNine erfordert eine gültige Vereinslizenz, die an den aktivierten PC gebunden ist.
+**Release-Downloads: ausschließlich `PulseNine_Setup.exe` und `SHA256SUMS.txt`.** Projekt-ZIPs, Build-Metadaten, Schlüssel und Anwendungsquellcode werden hier nicht veröffentlicht.
 
-Die von GitHub automatisch angebotenen **Source code (zip/tar.gz)**-Archive enthalten nur dieses öffentliche Download-Repository. Sie sind keine PulseNine-Installationspakete.
+Dieses Repository enthält außerdem die Produktbeschreibung und Screenshots. Der Anwendungsquellcode und der Lizenzmanager sind privat. Die Nutzung von PulseNine erfordert eine gültige Vereinslizenz, die an den aktivierten PC gebunden ist.
+
+Die von GitHub automatisch angebotenen **Source code (zip/tar.gz)**-Archive enthalten nur dieses öffentliche Download-Repository. Sie enthalten **keinen PulseNine-Anwendungsquellcode** und sind keine Installationspakete. Für die Installation ausschließlich die EXE verwenden.
